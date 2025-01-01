@@ -1,0 +1,432 @@
+T, Ablution 
+A, 4:43, 5:6
+S, 1
+create
+ST, circumstances requiring 
+STA, 4:43
+next
+
+T, Allah
+A, 16:40, 40:68, 41:39, 42:49, 57:2
+S, 18
+create
+ST, a day for Him is a thousand human years
+STA, 22:47, 32:5
+ST, a day for Him is fifty thousand years
+STA, 70:4
+ST, ability to do anything
+STA, 2:106, 2:117, 3:165, 3:189, 8:41, 9:116, 11:4
+ST, best of all judges
+STA, 95:8
+ST, beyond definition
+STA, 43:82, 67:12
+ST, brings disbelievers schemes to nought
+STA, 8:30, 8:36
+ST, cause human beings to disappear and bring forth other beings
+STA, 4:133, 14:19, 35:16
+ST, causes laughter and crying
+STA, 53:43
+ST, caused a man to sleep for a century
+STA, 2:259
+ST, enemy of those who deny the truth
+STA, 2:98
+ST, extol his glory from morning until night
+STA, 33:42
+ST, false daughters of
+STA, 16:57, 17:40, 43:16, 52:39, 53:21, 53:22
+ST, false daughters of by name
+STA, 53:19, 53:20
+ST, gives humans free will
+STA, 36:67
+ST, giving it all up for him
+STA, 4:66, 4:67, 4:68, 4:125
+ST, good and evil are from Him
+STA, 4:78
+ST, grants life and death
+STA, 44:8, 53:44, 57:2, 67:2
+next
+
+T, Angels
+A, 2:30, 2:31, 2:32, 2:33, 2:34, 69:17, 70:4, 89:22, 97:4
+S, 6
+create
+ST, eight will bear Allah's throne aloft on Judgement Day
+STA, 69:17
+ST, false claim that they are female
+STA, 43:19, 53:27
+ST, guardian
+STA, 82:10, 82:11, 82:12, 86:4
+ST, nineteen lord over hell
+STA, 74:30, 74:31
+ST, not sent to satisfy whims
+STA, 15:7, 15:8
+ST, sent to inspire
+STA, 16:2
+next
+
+T, Apostacy
+A, 3:72, 3:86, 3:87, 3:88, 3:90, 16:106, 33:14
+S, 7
+create
+ST, do not ask for speedy doom for apostates
+STA, 46:35
+ST, Allah alone will punish apostates
+STA, 73:11, 74:11
+ST, punishment in the hereafter 
+STA, 2:217, 9:74
+ST, rejection by others
+STA, 3:87
+ST, repentence
+STA, 3:89, 5:34, 9:5, 9:11
+ST, repentence on Judgement Day is too late 
+STA, 40:85
+ST, under duress
+STA, 16:106
+next
+
+T, Behavior
+A, 17:26, 17:27, 17:28, 17:29, 17:35, 17:53, 60:8
+S, 13
+create
+ST, argue in a kindly manner with those given earlier revelation
+STA, 16:125, 29:46
+ST, avoid becoming involved in matters you know nothing of
+STA, 17:36
+ST, avoid grave sins and shameful deeds
+STA, 53:32
+ST, avoid guesswork about one another
+STA, 49:12
+ST, be just in your opinions
+STA, 6:152
+ST, community should be moderate
+STA, 2:143, 25:67
+ST, conceit discouraged
+STA, 4:36, 57:23
+ST, don't chide those who seek your help
+STA, 93:10
+ST, don't consider yourself pure
+STA, 53:32
+ST, don't deride others
+STA, 49:11, 104:1
+ST, don't mention evil things openly
+STA, 4:148
+ST, don't speak ill of each other
+STA, 49:12, 104:1
+ST, don't spy on each other
+STA, 49:12
+next
+
+T, Charity
+A, 2:43, 2:110, 2:177, 2:262, 2:263, 2:264, 2:271, 2:272, 2:273, 2:274, 2:277, 3:92, 3:134, 98:5, 107:7
+S, 9
+create
+ST, during consultation with the Prophet
+STA, 58:12, 58:13
+ST, during the Hajj
+STA, 22:36
+ST, niggardliness
+STA, 3:180, 4:37, 25:67, 47:37, 57:24, 92:8
+ST, not payment for favors received
+STA, 92:19
+ST, precedence of spending
+STA, 2:215, 2:219
+ST, sharing food
+STA, 24:61, 89:18, 107:3
+ST, spending to earn praise forbidden
+STA, 4:38
+ST, those displeased with distribution of
+STA, 9:58, 9:76
+ST, towards slaves
+STA, 16:71
+next
+
+T, Children
+A, 16:72, 17:64, 18:46, 19:77, 26:133, 34:35, 34:37, 40:67, 46:15, 57:20, 80:36
+S, 15
+create
+ST, adopted ones should be named after their fathers
+STA, 33:5
+ST, baby daughters wrongly thought an evil sign
+STA, 16:58, 16:59, 43:18, 53:21, 53:22
+ST, breast feed for two years
+STA, 2:233, 31:34
+ST, do not kill for fear of poverty
+STA, 6:151, 17:31
+ST, female offspring buried alive will ask for what crime she'd been slain
+STA, 81:8, 81:9
+ST, gift of female offspring
+STA, 42:49
+ST, gift of male offspring
+STA, 42:49
+ST, helpless
+STA, 4:127
+ST, ignorant at time of birth
+STA, 16:78
+ST, in Heaven
+STA, 40:8, 52:24, 56:17
+ST, of Adam
+STA, 36:60
+ST, of Israel
+STA, 2:40, 2:47, 2:72, 3:180, 5:12, 5:70, 40:53, 43:59, 44:30, 45:16, 46:10, 61:6, 61:14
+ST, commandment concerning killing by
+STA, 5:32
+ST, pre-Islamic customs of slaying children
+STA, 6:137, 6:140
+ST, wet nurses
+STA, 2:233
+next
+
+T, Death
+A, 3:185, 3:193, 4:78, 21:35, 33:19, 33:23, 44:56, 47:27
+S, 5
+create
+ST, and flight from battle
+STA, 33:16
+ST, in Allah's cause
+STA, 3:195, 22:58, 47:4
+ST, those communities who have no revelation will not be destroyed
+STA, 6:131, 9:115, 10:47, 11:117, 15:4, 16:119, 17:15, 28:59
+ST, those slain in Allah's cause are alive
+STA, 2:154, 3:169
+ST, while fleeing evil towards Allah
+STA, 4:100
+next
+
+T, Disbelievers
+A,
+S, 15
+create
+ST, ask Muhammad to invoke Allah's wrath upon them as proof
+STA, 6:57, 6:58, 8:32, 10:49, 10:50, 10:51, 10:52
+ST, bear their company in kindness
+STA, 31:15
+ST, bear what they say in patience
+STA, 20:130, 50:39
+ST, covenants with
+STA, 8:56, 8:72, 9:4, 9:7
+ST, breaking of
+STA, 8:58, 9:12
+ST Allah brings their scheming to nought
+STA, 8:30, 8:36
+ST, leave company of those in the act of mocking Allah's law
+STA, 4:140, 6:68
+ST, protect them if they ask you to
+STA, 9:6
+ST, punishment during war
+STA, 8:12, 8:50, 8:59
+ST, punishment in the hereafter
+STA, 8:37
+ST, should not visit or take care of mosques
+STA, 9:17
+ST, speak kindly to them
+STA, 17:53
+ST, striving hard against
+STA, 9:73, 25:52, 66:9
+ST, treat non-belligerents with equity
+STA, 60:8
+ST, will only ally with other disbelievers
+STA, 8:72
+next
+
+T, Earth
+A, 51:20, 51:48, 91:6
+S, 7
+create
+ST, changed into another earth
+STA, 14:48
+ST, creation of
+STA, 3:190, 79:30
+ST, in six "days"
+STA, 7:54, 10:3, 11:7, 25:59, 50:38, 57:4
+ST, in two "days"
+STA, 41:9
+ST, the rest in the other four
+STA, 41:10
+ST, inclination of rotational axis to orbital plane
+STA, 22:61, 57:6
+ST, rotation of
+STA, 3:190, 7:54, 10:6, 13:3, 14:33, 25:62, 39:5, 41:37, 45:5
+next
+
+T, Fasting
+A, 2:183, 2:184
+S, 4
+create
+ST, during the Hajj
+STA, 2:196
+ST, during Ramadhan
+STA, 2:185
+ST, exemptions
+STA, 2:184, 2:185
+ST, hours of
+STA, 2:187
+next
+
+T, Fighting
+A, 9:14, 9:123, 22:39, 47:4, 48:16
+S, 7
+create
+ST, aggression forbidden
+STA, 2:190, 4:90, 60:8
+ST, aggression sin of
+STA, 5:2
+ST, aggression be brave
+STA, 4:104
+ST, aggression between two groups of believers
+STA, 49:9
+ST, do not aquire slaves except through war
+STA, 8:67
+ST, do not beg for peace
+STA, 47:35
+ST, exemptions
+STA, 9:122, 48:17
+next
+
+T, Friends
+A, 8:72
+S, 3
+create
+ST, avoid active disbelievers
+STA, 3:118, 3:119, 3:120, 5:57, 15:94, 58:14, 60:1, 60:13
+ST, leave company of those in the act of mocking Allah's law
+STA, 4:140, 6:68
+ST, forbidden are those who fight against you because of your religion
+STA, 60:9
+next
+
+T, Hajj
+A, 2:158, 2:189, 2:196, 2:197, 22:32, 22:33, 22:34, 22:35, 22:36
+S, 10
+create
+ST, abstention from quarreling during
+STA, 2:197
+ST, duty to visit Mecca (Makkah)
+STA, 3:97
+ST, exemption from
+STA, 2:196
+ST, fasting during
+STA, 2:196
+ST, hunting forbidden
+STA, 5:1, 5:94, 5:95
+ST, aquatic game approved during
+STA, 5:96
+ST, violate it once? Don't do it twice!
+STA, 5:95
+ST, reparations for doing it once
+STA, 5:95
+ST, rules
+STA, 5:2
+ST, sacrifice during
+STA, 2:196
+next
+
+T, Inheritance
+A, 2:180, 4:176, 89:19
+S, 8
+create
+ST, apportionment to children and parents
+STA, 4:11
+ST, apportionment to other kin, orphans, and the needy
+STA, 4:8
+ST, apportionment to siblings
+STA, 4:12
+ST, widows and widowers
+STA, 4:12
+ST, don't hold unloved wives for
+STA, 4:19
+ST, for men
+STA, 4:7
+ST, for women
+STA, 4:7
+ST, summary
+STA, 4:33
+next
+
+T, Materialism
+A, 9:24, 9:34, 9:55, 9:85, 28:76, 57:20, 63:9, 64:15, 104:2, 104:3, 111:2
+S, 7
+create
+ST, and the Prophet's wives
+STA, 33:28
+ST, envy forbidden
+STA, 4:32, 15:88, 16:90, 20:131
+ST, forbidden
+STA, 4:29, 4:30, 8:27
+ST, greed brings destruction
+STA, 102:1, 102:2, 102:3, 102:4, 102:5, 102:6
+ST, punishment for
+STA, 4:30
+ST, ruining others forbidden
+STA, 4:32
+ST, squandering
+STA, 17:27, 25:67
+next
+
+T, Mecca
+A, 2:142, 2:143, 2:144, 2:145, 2:146, 2:147, 2:148, 2:149, 2:150
+S, 4
+create
+ST, duty to visit Mecca (Makkah) for the Hajj
+STA, 3:97
+ST, turn and pray toward
+STA, 2:144, 2:149, 2:150
+ST, isn't necessary (Allah is everywhere)
+STA, 2:115, 2:142, 2:177
+ST, valley of
+STA, 48:24
+next
+
+T, Religion
+A, 110:2
+S, 13
+create
+ST, divergence of opinion
+STA, 3:19, 42:14, 45:17, 51:8, 78:3, 98:4
+ST, draws together former enemies
+STA, 3:103
+ST, false ideas upon things allowed and forbidden
+STA, 16:116
+ST, falsely follow other people's conjectures
+STA, 6:116, 6:119
+ST, falsely guided by ancestral concept of
+STA, 43:22
+ST, is not play and transient delight
+STA, 6:70, 7:51, 47:36
+ST, is self surrender to Allah
+STA, 3:85
+ST, no coercion in matters of faith
+STA, 2:256
+ST, no hardship in
+STA, 22:78
+ST, same as it was for the ones before you
+STA, 42:13
+ST, try and penetrate deepest meaning of
+STA, 4:162
+ST, use reason in
+STA, 3:65, 8:22
+ST, wickedness of attributing one's own lying inventions to Allah
+STA, 6:21
+next
+
+T, Water
+A, 47:15, 56:31, 56:68, 67:30, 77:27, 88:17
+S, 1
+create
+ST, two great bodies of
+STA, 25:53, 27:61, 35:12, 55:19, 55:21
+next
+
+T, Revelation
+A, 42:52, 43:4, 45:16, 46:12, 47:20, 52:2, 52:3, 98:1, 98:4, 98:6
+S, 4
+create
+ST, every age has had its own
+STA, 13:38
+ST, from behind a veil
+STA, 42:51
+ST, mentioning war
+STA, 47:20
+ST, nature of delivery
+STA, 42:51, 53:2, 53:3, 53:4, 53:5, 53:6, 53:7, 53:8, 53:9, 53:10, 53:11
+next
+
